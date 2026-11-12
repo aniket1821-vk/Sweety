@@ -265,6 +265,16 @@ GET http://localhost:4000/api/health/db
 - Month-to-date reports cover the first day of the selected month through the selected date
 - Dates are interpreted using the configured application timezone
 
+## Future Improvements
+
+With more development time, I would like to add:
+
+- Automated unit and integration tests for APIs and frontend workflows.
+- Exportable glucose reports in PDF or CSV format.
+- Configurable reminders for recording glucose readings.
+- Improved mobile responsiveness and accessibility.
+- Visual trends to compare glucose readings across multiple months.
+
 ## License
 
 This project was developed as part of a full-stack developer assignment.
